@@ -35,7 +35,11 @@ public class LoginLoadServlet extends HttpServlet {
 	}
 	public void test(){
 		System.out.println("¾Æµû¸¾¸¶");
-		//sadfasdfasdfasdfsa
+
+		//sadfasdfasdfasdfsazd
+	}
+	public void test1(){
+		System.out.println("Á¤±ÛºÏ");
 	}
 	
 
