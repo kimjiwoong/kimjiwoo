@@ -33,7 +33,9 @@ public class LoginLoadServlet extends HttpServlet {
 		response.setContentType("text/plain");
 		response.getWriter().write(password);
 	}
-
+	public void test(){
+		System.out.println("¾Æµû¸¾¸¶");
+	}
 	
 
 }
